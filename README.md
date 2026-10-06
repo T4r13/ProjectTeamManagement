@@ -227,3 +227,8 @@ pipeline {
 ## 👤 Auteur
 
 **ESPRIT — UP ASI**  
+
+
+
+
+cette ligne pour tester la detection de push a partir de jenkins 
